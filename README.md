@@ -48,11 +48,11 @@ Défile ton script dans la encoche, dans une fenêtre flottante, ou les deux.
 
 | Éditeur | Prompteur Notch | Fenêtre flottante |
 |:---:|:---:|:---:|
-| ![Éditeur](screenshots/editor.png) | ![Notch](screenshots/notch.png) | ![Floating](screenshots/floating.png) |
+| ![Éditeur](app.png) | ![Notch](screenshots/notch.png) | ![Floating](screenshots/floating.png) |
 
 | Paramètres | Détection vocale | Calibration |
 |:---:|:---:|:---:|
-| ![Settings](screenshots/settings.png) | ![Voice](screenshots/voice.png) | ![Calibration](screenshots/calibration.png) |
+| ![Settings](settings.png) | ![Voice](voix.png) | ![Calibration](calib.png) |
 
 ---
 

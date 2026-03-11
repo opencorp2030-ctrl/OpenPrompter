@@ -46,9 +46,9 @@ Défile ton script dans la encoche, dans une fenêtre flottante, ou les deux.
 
 <!-- Remplace les blocs ci-dessous par tes vraies screenshots -->
 
-| Éditeur | Prompteur Notch | Fenêtre flottante |
+| Éditeur | 
 |:---:|:---:|:---:|
-| ![Éditeur](app.png) | ![Notch](screenshots/notch.png) | ![Floating](screenshots/floating.png) |
+| ![Éditeur](app.png) 
 
 | Paramètres | Détection vocale | Calibration |
 |:---:|:---:|:---:|

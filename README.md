@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/icon.png" alt="OpenPrompter Icon" width="120" height="120" />
+<img src="icon.png" alt="OpenPrompter Icon" width="120" height="120" />
 
 # OpenPrompter
 

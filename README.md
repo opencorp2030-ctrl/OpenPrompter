@@ -40,21 +40,6 @@ Défile ton script dans la encoche, dans une fenêtre flottante, ou les deux.
 
 ---
 
-## 📸 Screenshots
-
-> *Tu peux ajouter tes captures d'écran ici.*
-
-<!-- Remplace les blocs ci-dessous par tes vraies screenshots -->
-
-| Éditeur | 
-|:---:|:---:|:---:|
-| ![Éditeur](app.png) 
-
-| Paramètres | Détection vocale | Calibration |
-|:---:|:---:|:---:|
-| ![Settings](settings.png) | ![Voice](voix.png) | ![Calibration](calib.png) |
-
----
 
 ## 🚀 Installation
 
